@@ -1,0 +1,14 @@
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\bin\Debug\net8.0\lEETcODE1.exe
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\bin\Debug\net8.0\lEETcODE1.deps.json
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\bin\Debug\net8.0\lEETcODE1.runtimeconfig.json
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\bin\Debug\net8.0\lEETcODE1.dll
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\bin\Debug\net8.0\lEETcODE1.pdb
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\obj\Debug\net8.0\lEETcODE1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\obj\Debug\net8.0\lEETcODE1.AssemblyInfoInputs.cache
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\obj\Debug\net8.0\lEETcODE1.AssemblyInfo.cs
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\obj\Debug\net8.0\lEETcODE1.csproj.CoreCompileInputs.cache
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\obj\Debug\net8.0\lEETcODE1.dll
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\obj\Debug\net8.0\refint\lEETcODE1.dll
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\obj\Debug\net8.0\lEETcODE1.pdb
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\obj\Debug\net8.0\lEETcODE1.genruntimeconfig.cache
+E:\DSA VS 2022\lEETcODE1\lEETcODE1\obj\Debug\net8.0\ref\lEETcODE1.dll
